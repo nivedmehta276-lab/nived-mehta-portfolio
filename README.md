@@ -2,8 +2,12 @@
 
 Public portfolio for Nived Mehta: video editing, motion design, filmmaking and DAUD Run Club content.
 
+Website: https://nivedmehta276-lab.github.io/nived-mehta-portfolio/
+
 This repository contains the finished static website. GitHub Pages serves the main branch root.
 
 The editable React/Vite source and original dependency lockfile are included in source-code.zip. Extract that archive into a separate folder, run npm install, then npm run dev. To create a new production build, run npm run build and publish the contents of dist.
+
+The 19 October 2026 update adds a MacBook scroll feature and automatic mobile effects. Motion respects the device's reduced-motion setting.
 
 Portfolio images and content belong to their respective owners. Component attribution and optional licensed-effect details are in the source archive README.
